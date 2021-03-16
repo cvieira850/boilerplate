@@ -6,7 +6,7 @@ type Props = {
 
 export default function Home({ title = 'Caio' }: Props) {
   return (
-    <div >
+    <div>
       <Head>
         <title>{title}</title>
         <link rel="icon" href="/favicon.ico" />

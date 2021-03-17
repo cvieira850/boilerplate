@@ -1,6 +1,6 @@
 const Main = () => (
   <main>
-    <h1>Boilerplate do Caio</h1>
+    <h1>React Avançado - Boilerplate</h1>
   </main>
 )
 

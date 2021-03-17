@@ -3,7 +3,7 @@
 exports[`<Main /> Should render the heading 1`] = `
 <main>
   <h1>
-    Boilerplate do Caio
+    React Avançado - Boilerplate
   </h1>
 </main>
 `

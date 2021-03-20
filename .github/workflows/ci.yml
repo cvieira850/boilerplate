@@ -20,7 +20,7 @@ jobs:
 
 
       - name: Linting
-        run: yarn Lint
+        run: yarn lint
 
 
       - name: Test

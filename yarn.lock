@@ -2867,10 +2867,12 @@
     npmlog "^4.1.2"
     pretty-hrtime "^1.0.3"
 
+
 "@storybook/postinstall@6.3.6":
   version "6.3.6"
   resolved "https://registry.yarnpkg.com/@storybook/postinstall/-/postinstall-6.3.6.tgz#fd79a6c109b38ced4b9b40db2d27b88ee184d449"
   integrity sha512-90Izr8/GwLiXvdF2A3v1PCpWoxUBgqA0TrWGuiWXfJnfFRVlVrX9A/ClGUPSh80L3oE01E6raaOG4wW4JTRKfw==
+
   dependencies:
     core-js "^3.8.2"
 
@@ -2887,18 +2889,18 @@
     react-docgen-typescript "^2.0.0"
     tslib "^2.0.0"
 
-"@storybook/react@6.3.4":
-  version "6.3.4"
-  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.3.4.tgz#b5677736cc90b75594190a2ca367b696d2c9bc7b"
-  integrity sha512-A4wycYqu/IcIaFb0cw2dPi8azhDj3SWZZModSRaQP3GkKi1LH5p14corP8RLKu2+dWC3FP4ZR6Yyaq/ymPGMzA==
+"@storybook/react@6.3.6":
+  version "6.3.6"
+  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.3.6.tgz#593bc0743ad22ed5e6e072e6157c20c704864fc3"
+  integrity sha512-2c30XTe7WzKnvgHBGOp1dzBVlhcbc3oEX0SIeVE9ZYkLvRPF+J1jG948a26iqOCOgRAW13Bele37mG1gbl4tiw==
   dependencies:
     "@babel/preset-flow" "^7.12.1"
     "@babel/preset-react" "^7.12.10"
     "@pmmmwh/react-refresh-webpack-plugin" "^0.4.3"
-    "@storybook/addons" "6.3.4"
-    "@storybook/core" "6.3.4"
-    "@storybook/core-common" "6.3.4"
-    "@storybook/node-logger" "6.3.4"
+    "@storybook/addons" "6.3.6"
+    "@storybook/core" "6.3.6"
+    "@storybook/core-common" "6.3.6"
+    "@storybook/node-logger" "6.3.6"
     "@storybook/react-docgen-typescript-plugin" "1.0.2-canary.253f8c1.0"
     "@storybook/semver" "^7.3.2"
     "@types/webpack-env" "^1.16.0"
